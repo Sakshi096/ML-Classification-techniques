@@ -9,4 +9,4 @@ Classification techniques in breast cancer dataset
 8. ROC-AUC of testing data
 9. change training data into categorical values
 10. define activation fuction, set optimizer
-11. 
+
